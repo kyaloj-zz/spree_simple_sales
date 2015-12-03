@@ -1,2 +1,2 @@
-# spree_simple_sales
-spree_extenstion
+#### spree_simple_sales
+a simple spree_extenstion
