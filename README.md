@@ -37,3 +37,4 @@ require 'spree_simple_sales/factories'
 ```
 
 Copyright (c) 2015 [name of extension creator], released under the New BSD License
+
